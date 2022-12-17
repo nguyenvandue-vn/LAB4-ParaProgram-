@@ -6,6 +6,8 @@ Time without:
 
 Matrix's size is: 20 Def meth's time: 0.16
 
+Matrix's size is: 28 Def meth's time: 0.18
+
 Matrix's size is: 40 Def meth's time: 0.2
 
 Matrix's size is: 60 Def meth's time: 0.36

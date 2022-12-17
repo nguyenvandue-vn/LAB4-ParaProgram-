@@ -27,3 +27,5 @@ Matrix's size is: 180 Def meth's time: 1.1
 Matrix's size is: 200 Def meth's time: 1.19
 
 ![image](https://user-images.githubusercontent.com/92180501/208227713-1c5bc0e2-4be8-430c-aa7a-8bcc1d42043b.png)
+
+Вывод:По CUDA работать самый быстро!
